@@ -1,0 +1,5 @@
+#messagelist.messagelist tr.unread td.subject span.subject { font-weight: normal; }
+#messagelist.messagelist tr td.subject span.subject { font-size: 90% !important; color: #737677; }
+#messagelist.messagelist tr.unread td.subject span.fromto { font-weight: bold; }
+#messagelist.messagelist tr td.subject span.fromto { font-size: 1rem; color: #2c363a; }
+#messagelist.messagelist tr.unread td.subject span.date { font-weight: bold; }
